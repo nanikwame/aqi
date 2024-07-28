@@ -1,0 +1,5 @@
+mkdir aqi-risk-service
+cd aqi-risk-service
+python -m venv venv
+source venv/bin/activate
+pip install flask requests
